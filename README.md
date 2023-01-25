@@ -16,7 +16,7 @@
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-bare/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-bare?type=dev)
 
 ## Download and Installation
-
+## Dit is een test om te kijken 
 To begin using this template, choose one of the following options to get started:
 
 * [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/bare/)
